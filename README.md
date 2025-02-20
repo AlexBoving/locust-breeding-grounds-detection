@@ -1,4 +1,4 @@
-# 🛰️ GeoAI Hackathon - Top 3 Solution
+# 🛰️ GeoAI Hackathon - Top 3 Kaggle Solution
 
 ## 🚀 Overview
 
